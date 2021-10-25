@@ -7,3 +7,7 @@ This Geopandas Python project uses Car Crashes data in Boston, Massachusetts in 
 
 MassGIS: https://www.mass.gov/info-details/massgis-data-layers
 Crashes data from MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
+## ArcGIS Project
+### Suitability Analysis for citywide Green Roofs
+
+This ArcGIS project aims to develop a suitability matrix based on environmental, social vulnerability index and building structures to identify potential buildings for building green roofs in Boston. The analyses is built using ArcGIS Model Builder, Spatial Analyst Tools (including Weighted and Fuzzy Overlay).
