@@ -6,4 +6,4 @@ This Geopandas Python project uses Car Crashes data in Boston, Massachusetts in 
 ## Data Sources
 
 MassGIS: https://www.mass.gov/info-details/massgis-data-layers
-MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
+Crashes data from MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
