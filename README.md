@@ -8,7 +8,7 @@ Nex step: Creating a crash severity matrix to identify the most dangerous or saf
 ### Data Sources
 
 MassGIS: https://www.mass.gov/info-details/massgis-data-layers <br /> 
-Crashes data from MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
+Car crashes data from MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
 ## ArcGIS Project
 ### Suitability Analysis for citywide Green Roofs
 
