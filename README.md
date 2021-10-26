@@ -4,10 +4,10 @@
 
 This Geopandas Python project uses Car Crashes data in Boston, Massachusetts in 2021 to plot a heatmap showing the number of crashes happenened in 2021 by zip code areas. 
 
-Nex step: Creating a severity matrix based on car crashes (In development)
+Nex step: Creating a severity matrix based on car crashes and visulize the data in an interactive web map (In development).
 ### Data Sources
 
-MassGIS: https://www.mass.gov/info-details/massgis-data-layers
+MassGIS: https://www.mass.gov/info-details/massgis-data-layers <br /> 
 Crashes data from MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
 ## ArcGIS Project
 ### Suitability Analysis for citywide Green Roofs
