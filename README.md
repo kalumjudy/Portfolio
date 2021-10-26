@@ -2,7 +2,9 @@
 ## Geopandas Project
 ### How safe are the streets in Boston?
 
-This Geopandas Python project uses Car Crashes data in Boston, Massachusetts in 2021 to plot a heatmap showing the number of crashes happenened in 2021 by zip code areas. (Initial visualization available. But project is still in development.)
+This Geopandas Python project uses Car Crashes data in Boston, Massachusetts in 2021 to plot a heatmap showing the number of crashes happenened in 2021 by zip code areas. 
+
+Nex step: Creating a severity matrix based on car crashes (In development)
 ### Data Sources
 
 MassGIS: https://www.mass.gov/info-details/massgis-data-layers
