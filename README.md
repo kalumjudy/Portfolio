@@ -9,7 +9,7 @@ Nex step: Creating a crash severity matrix to identify the most dangerous or saf
 
 MassGIS: https://www.mass.gov/info-details/massgis-data-layers <br /> 
 Car crashes data from MassDOT: https://apps.impact.dot.state.ma.us/cdp/extract
-## ArcGIS Project
+## ArcGIS Projects Highlight
 ### Suitability Analysis for citywide Green Roofs
 
 This ArcGIS project aims to develop a suitability matrix based on environmental, social vulnerability index (SoVI) and building structures to identify potential buildings for building green roofs in Boston. The analysis was built using ArcGIS Model Builder and Spatial Analyst Tools. Weight and Fuzzy overlay analyses were created to compare and identify a more accurate method to conduct this suitability analysis.
