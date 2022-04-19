@@ -16,3 +16,6 @@ This ArcGIS project aims to develop a suitability matrix based on environmental,
 ### Spatial Epidemiological Analysis on Opioid Overdose in Massachusetts
 
 This project was a collaborative project with the Massachusetts Department of Public Health (MDPH). Using the data provided by MDPH, this analysis was conducted using ArcGIS hotspot analysis (Getis Ord Gi*) tool to identify yearly opioid overdose events hotspot areas based on social-economic factors, patients' precription patterns and emergency encounters etc. This analysis helps MDPH to allocate preventive and rehabilitative measures to areas or population that are prone to opioid overdose. I have also co-authored the methodology of this analysis for future use.
+
+### Having fun with 3D Dioramas!
+These fun visualizations are created using DEM, LiDAR data in ArcGIS Pro. This is inspired by John Nelson, Maps and UX from Esri.
