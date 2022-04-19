@@ -19,3 +19,4 @@ This project was a collaborative project with the Massachusetts Department of Pu
 
 ### Having fun with 3D Dioramas!
 These fun visualizations are created using DEM, LiDAR data in ArcGIS Pro. This is inspired by John Nelson, Maps and UX from Esri.
+![SedonaLayout1](https://user-images.githubusercontent.com/64152368/164090362-57354f75-f4eb-4f16-96d8-5d397bcfca50.jpeg)
